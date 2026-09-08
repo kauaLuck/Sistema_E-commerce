@@ -1,4 +1,4 @@
-# Sistema de Gestão de Folha de Pagamento
+# Sistema de E-commerce
 
 Projeto desenvolvido para demonstrar a aplicação prática dos pilares da **Programação Orientada a Objetos (POO)** em Java, através de um domínio de controle de funcionários, bonificações e cálculo de folha salarial.
 
